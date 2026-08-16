@@ -7,18 +7,9 @@
 </p>
 
 <p align='center'>
-<img src="https://img.shields.io/badge/Total%20Reading-3.18M-success">
-<img src="https://img.shields.io/badge/Total%20Word%20Count-680K-success">
-<img src="https://img.shields.io/github/stars/halfrost/Halfrost-Field?label=Stars&color=success">
-<img src="https://img.shields.io/github/forks/halfrost/Halfrost-Field?label=Forks&color=success">
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
-<img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Mac%20%7C%20Web-ff69b4.svg">
-<img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
-<img src="https://img.shields.io/badge/language-Swift-abcdef.svg">
-<img src="https://img.shields.io/badge/language-JavaScript-yellow.svg">
-<img src="https://img.shields.io/badge/language-Golang-26C2F0.svg">
-<img src="https://img.shields.io/github/last-commit/halfrost/Halfrost-Field?label=Last%20Commit">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.Halfrost-Field" alt="visitor badge"/>  
+<img src="https://img.shields.io/badge/Total%20Reading">
+<img src="https://img.shields.io/badge/Total%20Word%20Count">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
 </p>
 
 <p align='center'>
