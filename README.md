@@ -6,11 +6,6 @@
 <img src='contents/images/background-cover_.png'>
 </p>
 
-<p align='center'>
-<img src="https://img.shields.io/badge/Total%20Reading">
-<img src="https://img.shields.io/badge/Total%20Word%20Count">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
-</p>
 
 <p align='center'>
 <a href="https://github.com/halfrost/Halfrost-Field/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/halfrost/Halfrost-Field?label=License"></a>
